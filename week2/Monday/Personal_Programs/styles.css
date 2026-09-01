@@ -1,0 +1,21 @@
+body {
+    color: #ffffff;
+    background: #900030;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 14px;
+
+}
+
+h1 {
+    color: #ffffff;
+
+}
+
+p {
+    max-width: fit-content;
+    line-height: 1.5;
+}
+
+a {
+    color: #2600ff;
+}
