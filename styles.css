@@ -1,0 +1,77 @@
+* {
+    box-sizing: border-box;
+
+}
+
+body {
+    margin: 0;
+    color: black;
+    background: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 14px;
+    line-height: 1.5;
+}
+
+.hero {
+    background: #5500ff;
+    color: white;
+    padding: 32px 20px;
+}
+
+.hero h1,
+.hero p {
+    max-width: 850px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.page {
+    max-width: 700px;
+    margin: 24px auto;
+    padding: 0 14px;
+}
+
+.card-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 14px;
+}
+
+.card {
+    min-height: 180px;
+    background: white;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 14px;
+}
+
+.site-header {
+    background: rgb(0, 13, 255);
+    color: white;
+    padding: 18px;
+}
+
+.site-header h1 {
+    margin: 0 0 14px;
+
+}
+
+.nav-list {
+    display: flex;
+    gap: 14px;
+}
+
+.nav-list a {
+    color: white;
+    font-weight:bold;
+}
+
+a {
+    color: #2600ff;
+}
+
+@media (max-width: 600px) {
+    .card-grid {
+        grid-template-columns: 1fr;
+    }
+}
