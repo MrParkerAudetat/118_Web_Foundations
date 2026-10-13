@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    color: white;
+    background: red;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 14px;
+    line-height: 1.5;
+
+}
+
+.site-header {
+    background: rgb(0, 13, 255);
+    color: white;
+    padding: 18px;
+}
+
+.site-header h1 {
+    margin: 0 0 14px;
+
+}
+
+.nav-list {
+    display: flex;
+    gap: 14px;
+}
+
+.nav-list a {
+    color: white;
+    font-weight:bold;
+}
+
+.page {
+    max-width: 800px;
+    margin: 24px auto;
+        padding: 24px;
+}
+
+a {
+    color: #2600ff;
+}
