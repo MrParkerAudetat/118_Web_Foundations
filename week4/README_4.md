@@ -1,6 +1,6 @@
 # README 3: Intro to JavaScript
 ## HTML File
-The HTML is very much like the other HTMLs created in the past. The difference here is the script command line that has the HTML reference to the "week_3_script.js". This reference is here so by the time the page is up, the information stored in the JS file is able to be outputted into the dev console in the browser's terminal immediately.
+The HTML is very much like the other HTMLs created in the past. The difference here is the script command line that has the HTML reference to the "week_4_script.js". This reference is here so by the time the page is up, the information stored in the JS file is able to be outputted into the dev console in the browser's terminal immediately.
 
 ## JSON File
 This program defines a function (getRoundStatus), that takes the number of rounds survived, the round goal that the user has, and signifies whether or not the set round goal has been reached or not. When the user reached their goal and the reached flag is true, it will return back with "Goal: Reached, if they have not reached their goal, it will return back with "Goal: Not reached". The JS script then calls the "getRoundStatus" function that has the sample values from the constants, and logs the inputs and the status of the goal, into the console seen in the browser's dev terminal.
