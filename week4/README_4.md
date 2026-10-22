@@ -15,3 +15,6 @@ This program defines a function (getRoundStatus), that takes the number of round
 * On line 17, I added a // comment, and I had accidentally put a closing bracket on the same line as the comment. This ended up causing an error which I did not pick up on until I asked AI what I did wrong. 
 
 * I had the AI help clarify what was happening in the JS file so I could make sure I was understanding what was going on.
+
+## Separate Assignment 
+This program is not apart of my project because it is not something I plan on using in my project so I decided to make it it's own separate website that is not related to the project.
