@@ -18,3 +18,5 @@ This program defines a function (getRoundStatus), that takes the number of round
 
 ## Separate Assignment 
 This program is not apart of my project because it is not something I plan on using in my project so I decided to make it it's own separate website that is not related to the project.
+
+## Instructor's Feedback
