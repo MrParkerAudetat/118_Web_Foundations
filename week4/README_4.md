@@ -1,4 +1,4 @@
-# README 3: Intro to JavaScript
+# README 4: Intro to JavaScript
 ## HTML File
 The HTML is very much like the other HTMLs created in the past. The difference here is the script command line that has the HTML reference to the "week_4_script.js". This reference is here so by the time the page is up, the information stored in the JS file is able to be outputted into the dev console in the browser's terminal immediately.
 
