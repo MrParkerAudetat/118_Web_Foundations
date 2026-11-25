@@ -1,4 +1,4 @@
-# Web Foundations Week 6 - Debugging Process
+# Web Foundations Week 6 - Debugging and Problem Solving
 
 ## Bugs Noticed
 
